@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml version="1.1" encoding="UTF-8" standalone="yes"?>
 <addon id="repository.z-flix" name="ZéFLix Repository" version="1.0" provider-name="rubentuga">
     <extension point="xbmc.addon.repository" name="ZéFLix Repository">
         <dir>
@@ -18,3 +18,4 @@
         </assets>
     </extension>
 </addon>
+
