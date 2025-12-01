@@ -21,7 +21,7 @@ COLOR4 = colors.color_text4
 def main_menu():
     xbmcplugin.setPluginCategory(HANDLE, COLOR1('Main Menu'))
     
-    add_dir(COLOR1(f"<><> [B]Welcome to 7o9's Wizard[/B] <><>"), '', '', addon_icon, addon_fanart, COLOR2(f'7o9Wizard v{addon_ver}\n\nSystem Uptime:  {uptime}\nTotal System Uptime:  {total_uptime}'), isFolder=False)
+    add_dir(COLOR1(f"<><> [B]Welcome to ZÉFLIX Wizard[/B] <><>"), '', '', addon_icon, addon_fanart, COLOR2(f'7o9Wizard v{addon_ver}\n\nSystem Uptime:  {uptime}\nTotal System Uptime:  {total_uptime}'), isFolder=False)
     
     if UPDATE_VERSION > BUILD_VERSION:
         add_dir(COLOR3(f'[B]Build Update Available!!![/B]   [{BUILD_NAME} v{UPDATE_VERSION}]'), '', 41, addon_icon, addon_fanart, COLOR2(local_string(30110)), isFolder=False)  # Build Update Available
