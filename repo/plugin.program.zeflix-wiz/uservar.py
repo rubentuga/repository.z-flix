@@ -2,7 +2,7 @@
 buildfile = 'https://www.dropbox.com/scl/fi/axlao9mgigffxj3464333/builds.xml?rlkey=43g7376kbgllthxxi26t8o0ui&e=1&st=r2h85tuq&dl=0'
 
 '''#####-----Notifications File-----#####'''
-notify_url  = 'https://www.dropbox.com/scl/fi/psjvlsem2hp8nl0o8ewrb/notify.txt?rlkey=agwfedl401r8nc15jjg2cwpgl&st=ssbrbghk&dl=0'
+notify_url  = 'https://www.dropbox.com/scl/fi/psjvlsem2hp8nl0o8ewrb/notify.txt?rlkey=agwfedl401r8nc15jjg2cwpgl&st=8csg5081&dl=0'
 
 '''#####-----Changelog Directory-----#####'''
 changelog_dir  = 'http://dr-venture.com/709/Wizard/changelogs/'

@@ -12,7 +12,7 @@
 			<description>Image</description>
 			<width>1080</width>
 			<height>600</height>
-			<texture>background.jpg</texture>
+			<texture>background.png</texture>
 			<colordiffuse></colordiffuse>
 			<bordertexture border="20">border.png</bordertexture>
 			<bordersize>20</bordersize>
